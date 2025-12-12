@@ -1,0 +1,2 @@
+D:\TuHoc\WpfStudentApp\WpfStudentApp\obj\Debug\net6.0-windows7.0\App.g.cs
+D:\TuHoc\WpfStudentApp\WpfStudentApp\obj\Debug\net6.0-windows7.0\WpfStudentApp_MarkupCompile.cache
