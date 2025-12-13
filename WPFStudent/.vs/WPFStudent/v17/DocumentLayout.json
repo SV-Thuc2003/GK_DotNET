@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TuHoc\\WPFStudent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\views\\studentlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\views\\studentlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\viewmodels\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\viewmodels\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\viewmodels\\studentformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\viewmodels\\studentformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\views\\studentformview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\views\\studentformview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\views\\studentformview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\views\\studentformview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\converters\\base64toimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\converters\\base64toimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\views\\studentlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\views\\studentlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\wpfstudent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\wpfstudent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\views\\studentlistview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\views\\studentlistview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|d:\\tuhoc\\wpfstudent\\wpfstudent\\wpfstudent.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3F6AA1BC-353B-480C-8683-263C02335C2A}|WPFStudent\\WPFStudent.csproj|solutionrelative:wpfstudent\\wpfstudent.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentFormView.xaml.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Views\\StudentFormView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\Views\\StudentFormView.xaml.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Views\\StudentFormView.xaml.cs",
+              "RelativeToolTip": "WPFStudent\\Views\\StudentFormView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T03:50:07.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentFormViewModel.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\ViewModels\\StudentFormViewModel.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\ViewModels\\StudentFormViewModel.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\ViewModels\\StudentFormViewModel.cs",
+              "RelativeToolTip": "WPFStudent\\ViewModels\\StudentFormViewModel.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAiwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:27:56.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentListViewModel.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\ViewModels\\StudentListViewModel.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\ViewModels\\StudentListViewModel.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\ViewModels\\StudentListViewModel.cs",
+              "RelativeToolTip": "WPFStudent\\ViewModels\\StudentListViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:28:06.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentListView.xaml",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Views\\StudentListView.xaml",
+              "RelativeDocumentMoniker": "WPFStudent\\Views\\StudentListView.xaml",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Views\\StudentListView.xaml",
+              "RelativeToolTip": "WPFStudent\\Views\\StudentListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-12T15:19:43.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentFormView.xaml",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Views\\StudentFormView.xaml",
+              "RelativeDocumentMoniker": "WPFStudent\\Views\\StudentFormView.xaml",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Views\\StudentFormView.xaml",
+              "RelativeToolTip": "WPFStudent\\Views\\StudentFormView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-12T15:19:52.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\Services\\StudentService.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Services\\StudentService.cs",
+              "RelativeToolTip": "WPFStudent\\Services\\StudentService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:18:14.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\Services\\IStudentService.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Services\\IStudentService.cs",
+              "RelativeToolTip": "WPFStudent\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:18:08.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\Models\\Student.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Models\\Student.cs",
+              "RelativeToolTip": "WPFStudent\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:26:46.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "WPFStudent\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:27:50.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WPFStudent\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:17:50.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WPFStudent\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:27:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "WPFStudent\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:27:42.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Base64ToImageConverter.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Converters\\Base64ToImageConverter.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\Converters\\Base64ToImageConverter.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Converters\\Base64ToImageConverter.cs",
+              "RelativeToolTip": "WPFStudent\\Converters\\Base64ToImageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:04:06.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentListView.xaml.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Views\\StudentListView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\Views\\StudentListView.xaml.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Views\\StudentListView.xaml.cs",
+              "RelativeToolTip": "WPFStudent\\Views\\StudentListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T03:47:23.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFStudent\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:02:54.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFStudent\\MainWindow.xaml",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\MainWindow.xaml",
+              "RelativeToolTip": "WPFStudent\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-12T15:02:56.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\App.xaml",
+              "RelativeDocumentMoniker": "WPFStudent\\App.xaml",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\App.xaml",
+              "RelativeToolTip": "WPFStudent\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-12T15:09:47.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\App.xaml.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\App.xaml.cs",
+              "RelativeToolTip": "WPFStudent\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:33:33.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WPFStudent.csproj",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\WPFStudent.csproj",
+              "RelativeDocumentMoniker": "WPFStudent\\WPFStudent.csproj",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\WPFStudent.csproj",
+              "RelativeToolTip": "WPFStudent\\WPFStudent.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T18:02:48.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPFStudent\\AssemblyInfo.cs",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPFStudent\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:31:58.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentListView.xaml",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Views\\StudentListView.xaml",
+              "RelativeDocumentMoniker": "WPFStudent\\Views\\StudentListView.xaml",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\Views\\StudentListView.xaml",
+              "RelativeToolTip": "WPFStudent\\Views\\StudentListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-12T15:18:32.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WPFStudent",
+              "DocumentMoniker": "D:\\TuHoc\\WPFStudent\\WPFStudent\\WPFStudent.csproj",
+              "RelativeDocumentMoniker": "WPFStudent\\WPFStudent.csproj",
+              "ToolTip": "D:\\TuHoc\\WPFStudent\\WPFStudent\\WPFStudent.csproj",
+              "RelativeToolTip": "WPFStudent\\WPFStudent.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T15:09:26.176Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
