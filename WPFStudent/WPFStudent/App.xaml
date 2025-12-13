@@ -1,0 +1,21 @@
+﻿<Application x:Class="WPFStudent.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:conv="clr-namespace:WPFStudent.Converters"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                    <materialDesign:BundledTheme BaseTheme="Light" 
+                                     PrimaryColor="Blue" 
+                                     SecondaryColor="Lime" />
+                    <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml"/>
+                    <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Blue.xaml"/>
+                    
+                </ResourceDictionary.MergedDictionaries>
+      
+            <conv:Base64ToImageConverter x:Key="Base64ToImageConverter" />
+        </ResourceDictionary>
+    </Application.Resources>    
+</Application>
